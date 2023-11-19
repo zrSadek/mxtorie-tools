@@ -4,7 +4,7 @@
   </a>
   </kbd>
 
-  <h1 align="center">Monkey - Account Creator</h1>
+  <h1 align="center">Mxtorie Tools</h1>
   <p align="center">
     Une ancienne version de mxtorie tools
     <br />
