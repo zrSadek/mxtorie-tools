@@ -11,11 +11,11 @@
     <br />
     <a href="https://discord.gg/mxtorie">💬 Discord</a>
     ·
-    <a href="https://github.com/zrSadek/mxtorie-tools">📜 ChangeLog</a>
+    <a href="https://discord.gg/mxtorie">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/zrSadek/mxtorie-tools">⚠️ Report Bug</a>
+    <a href="https://discord.gg/mxtorie">⚠️ Report Bug</a>
     ·
-    <a href="https://github.com/zrSadek/mxtorie-tools">💡 Request Feature</a>
+    <a href="https://discord.gg/mxtorie">💡 Request Feature</a>
   </p>
 </div>
 
