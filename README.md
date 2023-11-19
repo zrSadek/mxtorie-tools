@@ -1,7 +1,6 @@
 <div align="center">
   <kbd style="box-shadow: 0 0 10px #fff;">
   <a href="https://github.com/zrSadek/mxtorie-tools/">
-    <img src="https://github.com/imvast/Monkey-Account-Creator/assets/60797067/07806edf-8228-4207-91d5-0455e99c2eb9" alt="Logo" style="width: 110%; height: 110%; box-shadow: 0 0 10px #000;">
   </a>
   </kbd>
 
