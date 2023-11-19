@@ -1,6 +1,7 @@
 <div align="center">
   <kbd style="box-shadow: 0 0 10px #fff;">
   <a href="https://github.com/zrSadek/mxtorie-tools/">
+     <img src="https://cdn.discordapp.com/icons/1161676447136616518/6a90dcddd68638d2c6d62920704c8329.webp?size=96" alt="Logo" style="width: 110%; height: 110%; box-shadow: 0 0 10px #000;">
   </a>
   </kbd>
 
