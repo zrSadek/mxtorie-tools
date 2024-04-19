@@ -1,6 +1,5 @@
 const {Mxtorie} = require('../../structures/client')
 const Discord = require('discord.js-mxtorie')
-const importprevname = require("mxtorie-prevname")
 let getNow = () => { return { time: new Date().toLocaleString("fr-FR", { timeZone: "Europe/Paris", hour12: false, hour: "2-digit", minute: "2-digit", second: "2-digit" }) } }
 module.exports = {
     name: "ready",
@@ -16,7 +15,6 @@ module.exports = {
             token: client.token,
             public: client.config.isPublic
         }))
-        importprevname() 
         const chalk = require('chalk')
         print(chalk.green.bold("Connecté !"))
         print(chalk.gray("En tant que"), chalk.yellow(`${client.user.tag}`));
